@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** with **4+ years of experience**, currently leading the development team at **CANDO**. My expertise lies at the intersection of **High-Performance Backend Architecture**, **Cloud Infrastructure**, and **Data Engineering**.
+I am a **Software Engineer** with **5+ years of experience**, currently leading the development team at **CANDO**. My expertise lies at the intersection of **High-Performance Backend Architecture**, **Cloud Infrastructure**, and **Data Engineering**.
 
 I specialize in building scalable REST services, orchestrating complex ETL pipelines, and integrating AI models into production environments. I am passionate about applying **DevOps philosophies** and **Clean Architecture** patterns (Factory, Repository) to solve real-world business problems.
 
